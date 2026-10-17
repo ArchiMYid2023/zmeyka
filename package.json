@@ -1,0 +1,14 @@
+{
+  "name": "neymark-snake",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ЗМЕЙКА — браузерная аркада с сервером рекордов на Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tools/smoke.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
